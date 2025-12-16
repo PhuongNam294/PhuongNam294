@@ -1,141 +1,163 @@
-<!-- ===================== -->
-<!--   PROFILE README     -->
-<!-- ===================== -->
+<!-- ========================= -->
+<!--   GITHUB PROFILE README  -->
+<!-- ========================= -->
 
-<h1 align="center">👋 Phạm Hoàng Phương Nam</h1>
-<h3 align="center">Frontend Developer</h3>
+<h1 align="center">
+  👋 Phạm Hoàng Phương Nam
+</h1>
+
+<h3 align="center">
+  Frontend Developer • ReactJS • React Native
+</h3>
 
 <p align="center">
-  <a href="mailto:hoangphuongnam@gmail.com">📧 Email</a> •
-  📍 Ninh Kiều, Cần Thơ •
-  📱 0931 514 434
+  <a href="mailto:hoangphuongnam@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hoangphuongnam%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Location-Cần%20Thơ-2E86C1?style=flat-square&logo=google-maps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Phone-0931514434-27AE60?style=flat-square&logo=phone&logoColor=white"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-Developer-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/React-ReactJS-61DAFB?style=flat-square&logo=react"/>
-  <img src="https://img.shields.io/badge/Mobile-React%20Native-0A7EA4?style=flat-square&logo=react"/>
-  <img src="https://img.shields.io/badge/Backend-Spring%20Boot-6DB33F?style=flat-square&logo=springboot"/>
+  <img src="https://img.shields.io/badge/Frontend-ReactJS-61DAFB?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Mobile-React%20Native-0A7EA4?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Backend-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 </p>
 
 ---
 
-## 👨‍💻 Giới thiệu ngắn gọn
-Tôi là **Frontend Developer** với kinh nghiệm xây dựng **website và mobile application** từ thiết kế đến triển khai.  
-Có khả năng làm việc với **ReactJS, React Native**, kết nối **RESTful API**, tối ưu trải nghiệm người dùng (UI/UX) và phối hợp hiệu quả với backend.
+## 👨‍💻 About Me
 
-Tôi luôn chú trọng:
-- Code rõ ràng, dễ bảo trì  
-- Giao diện thân thiện, nhất quán  
-- Hiệu năng và trải nghiệm người dùng  
+💡 Tôi là **Frontend Developer** với kinh nghiệm xây dựng **website và mobile application** từ giao diện đến tích hợp backend.
+
+🔹 Thế mạnh của tôi:
+- Xây dựng UI **clean – responsive – dễ mở rộng**
+- Kết nối và xử lý **RESTful API**
+- Tối ưu **trải nghiệm người dùng (UI/UX)**
+- Làm việc tốt với **team backend & designer**
+
+🎯 Tôi luôn hướng đến việc viết **code rõ ràng – dễ bảo trì – mang lại giá trị thực tế cho người dùng**.
 
 ---
 
-## 🧠 Kỹ năng chuyên môn
+## 🧠 Technical Skills
 
-### 🚀 Frontend
+### 🎨 Frontend
 - HTML5, CSS3, Tailwind CSS, Bootstrap  
 - JavaScript (ES6+)  
 - ReactJS, React Hooks  
-- Responsive Design (Desktop / Tablet / Mobile)  
+- Responsive & Cross-browser  
 
 ### 📱 Mobile
 - React Native  
-- Tối ưu giao diện & trải nghiệm đa nền tảng  
+- UI đồng nhất giữa Web & Mobile  
 
 ### 🔗 Backend & API
 - RESTful API  
 - Spring Boot (Java)  
-- Kết nối & xử lý dữ liệu từ backend  
+- Xử lý dữ liệu động từ backend  
 
-### 🎨 UI/UX & Công cụ
-- Figma (thiết kế & đọc thiết kế UI/UX)  
-- Git / GitHub  
+### 🛠 Tools & UI/UX
+- Git & GitHub  
+- Figma (UI/UX Design)  
 - Postman  
 
 ---
 
-## 💼 Kinh nghiệm làm việc
+## 💼 Work Experience
 
 ### **Frontend Developer**  
 **CÔNG TY TNHH GIẢI PHÁP CÔNG NGHỆ THÔNG TIN GOLDEN BEE**  
-*2025 – Hiện tại*
+📅 *2025 – Hiện tại*
 
-- Xây dựng giao diện **frontend hoàn chỉnh** cho website và sản phẩm cuối.  
-- Phát triển website bằng **HTML, CSS, JavaScript, ReactJS**.  
-- Phát triển **mobile application** bằng **React Native**, đảm bảo tính nhất quán UI giữa web và mobile.  
-- Tối ưu hiển thị trên nhiều thiết bị và trình duyệt (Web, Mobile, Chrome, Firefox, Edge…).  
-- Tích hợp API và xử lý dữ liệu động từ backend.  
-- Thiết kế giao diện trên **Figma** theo chuẩn UI/UX.  
-- Phối hợp với backend và tham gia **code review**, cải thiện chất lượng sản phẩm.  
+- Phát triển giao diện frontend cho **website và sản phẩm thực tế**.  
+- Xây dựng UI bằng **HTML, CSS, JavaScript, ReactJS**.  
+- Phát triển **mobile application** với **React Native**.  
+- Đảm bảo hiển thị tốt trên **Desktop / Mobile / Tablet** và các trình duyệt phổ biến.  
+- Tích hợp API, xử lý dữ liệu động.  
+- Thiết kế giao diện trên **Figma**, tuân thủ chuẩn UI/UX.  
+- Phối hợp backend, tham gia **code review** và cải thiện chất lượng code.  
 
 ---
 
-## 🎓 Học vấn
+## 🎓 Education
 
-**Cao đẳng FPT Polytechnic**  
-- Chuyên ngành: **Phát triển phần mềm**  
-- Thời gian: **2023 – 2025**  
+🎓 **FPT Polytechnic College**  
+- Major: **Software Development**  
+- Duration: **2023 – 2025**  
 - GPA: **3.66 / 4.0**  
-- Xếp loại: **Xuất sắc**
+- Rank: **Excellent**
 
 ---
 
-## 📂 Dự án học tập tiêu biểu
+## 📂 Featured Projects
 
-### 🛒 Website thương mại điện tử (Bán giày & Bán quần áo)
-- Xây dựng giao diện bằng **HTML, CSS, Bootstrap**  
-- Responsive cho desktop, tablet và mobile  
-- Xử lý logic frontend bằng **JavaScript**  
-- Validation dữ liệu form người dùng  
-- Tối ưu trải nghiệm người dùng (UI/UX)  
+### 🛒 E-commerce Website (Shoes & Clothing)
+- HTML, CSS, Bootstrap  
+- JavaScript xử lý logic frontend  
+- Responsive đa thiết bị  
+- Form validation & UI/UX tối ưu  
 
-### 🖥 Website quản lý nhà trọ
-- Frontend: **HTML, Bootstrap**  
-- Backend: **API Spring Boot**  
+---
+
+### 🏠 Boarding House Management Website
+- Frontend: HTML, Bootstrap  
+- Backend: Spring Boot RESTful API  
 - Quản lý phòng, khách thuê, hợp đồng  
-- Kết nối và hiển thị dữ liệu động  
+- Hiển thị dữ liệu động từ backend  
 
-### 📚 Web App đọc truyện
-- Thiết kế UI/UX thân thiện  
-- Frontend: **ReactJS**  
-- Backend: **RESTful API Spring Boot**  
-- Các chức năng:
+---
+
+### 📚 Online Reading Web App
+- Frontend: ReactJS  
+- Backend: Spring Boot RESTful API  
+- Chức năng:
   - Đăng nhập / đăng ký  
-  - Hiển thị danh sách & chi tiết truyện  
+  - Danh sách & chi tiết truyện  
   - Tìm kiếm truyện  
 
-### 🏪 Ứng dụng quản lý nhà hàng
-- Frontend: **HTML, CSS, ReactJS**  
-- Backend: **Spring Boot (Client – Server)**  
-- Quản lý sản phẩm, danh mục, đơn hàng, người dùng  
-- Giao diện thân thiện, dễ sử dụng cho nhân viên  
+---
+
+### 🍽 Restaurant Management System
+- Frontend: HTML, CSS, ReactJS  
+- Backend: Spring Boot (Client – Server)  
+- Quản lý:
+  - Sản phẩm  
+  - Danh mục  
+  - Đơn hàng  
+  - Người dùng  
+- Giao diện thân thiện, dễ sử dụng  
 
 ---
 
-## 📜 Chứng chỉ
+## 📜 Certifications
 
-- **IELTS 5.0**  
-- Chứng nhận **Lập trình phần mềm**  
-- Chứng nhận **Thiết kế hệ thống**  
-- Chứng nhận **Xây dựng website**
-
----
-
-## 🎯 Sở thích
-- Chia sẻ kiến thức công nghệ  
-- Đọc sách  
-- Thể thao  
+- IELTS 5.0  
+- Software Development Certificate  
+- System Design Certificate  
+- Website Development Certificate  
 
 ---
 
-## 📫 Liên hệ
-- 📧 Email: **hoangphuongnam@gmail.com**  
-- 📱 Phone: **0931 514 434**  
-- 📍 Cần Thơ, Việt Nam  
+## ❤️ Interests
+- Sharing technical knowledge  
+- Reading books  
+- Sports  
+
+---
+
+## 📫 Contact
+
+📧 **Email:** hoangphuongnam@gmail.com  
+📱 **Phone:** 0931 514 434  
+📍 **Location:** Cần Thơ, Việt Nam  
 
 ---
 
 <p align="center">
-  <i>“Code sạch – Giao diện tốt – Trải nghiệm người dùng là ưu tiên hàng đầu.”</i>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E86C1,100:5DADE2&height=2"/>
+</p>
+
+<p align="center">
+  <i>Clean Code • Better UI • Great User Experience</i>
 </p>
