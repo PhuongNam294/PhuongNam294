@@ -199,7 +199,6 @@
 
 <h2 align="center">🎓 Học vấn</h2>
 <div align="center">
-    <img src="https://img.shields.io/badge/FPT%20Polytechnic-GPA%3A%203.66%2F4.0-F27121?style=for-the-badge&logo=fp&logoColor=white" />
     <br/><br/>
     <em>Chuyên ngành Phát triển phần mềm (2023 - 2025) • Xếp loại Xuất Sắc</em>
 </div>
