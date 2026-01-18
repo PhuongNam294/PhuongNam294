@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Cần%20Thơ-VietNam-FF5722?style=for-the-badge&logo=googlemaps&logoColor=white" height="30"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Phone-0331.514.434-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30"/>
+    <img src="https://img.shields.io/badge/Phone-0338.151.434-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30"/>
   </a>
 </div>
 
