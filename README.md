@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=8E2DE2&center=true&vCenter=true&width=600&lines=Xây+dựng+giao+diện+người+dùng+hiện+đại;Chuyên+ReactJS+•+React+Native+•+Spring+Boot;Code+sạch+-+Tư+duy+Sản+phẩm" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=8E2DE2&center=true&vCenter=true&width=600&lines=Xây+dựng+giao+diện+người+dùng+hiện+đại;Code+sạch+-+Tư+duy+Sản+phẩm" alt="Typing SVG" />
 </h3>
 
 <div align="center">
@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Cần%20Thơ-VietNam-FF5722?style=for-the-badge&logo=googlemaps&logoColor=white" height="30"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Phone-0931.514.434-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30"/>
+    <img src="https://img.shields.io/badge/Phone-0331.514.434-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30"/>
   </a>
 </div>
 
@@ -93,9 +93,10 @@
       <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
       <br>MySQL
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="48" height="48" alt="SQL Server" />
-      <br>SQL Server
+    <td align="center" width="90">
+      <img src="https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white"
+           width="80" height="80"/><br/>
+      SQL Server
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
@@ -156,8 +157,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PhuongNam294&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=FF6B6B&text_color=FFFFFF" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhuongNam294&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&text_color=FFFFFF" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PhuongNam294&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=FF6B6B&text_color=FFFFFF" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PhuongNam294&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&text_color=FFFFFF" height="180"/>
 </div>
 
 <br/>
@@ -333,7 +334,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=140&section=header&text=🛒%20E-commerce&fontSize=28&fontColor=fff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=140&section=header&text=🛒%20E-commerce&fontSize=28&fontColor=fff&animation=fadeIn&fontAlignY=30" width="100%"/>
 
 <br/>
 
@@ -365,7 +366,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f093fb,100:f5576c&height=140&section=header&text=🏠%20Quản%20lý%20Nhà%20trọ&fontSize=28&fontColor=fff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f093fb,100:f5576c&height=140&section=header&text=🏠%20Quản%20lý%20Nhà%20trọ&fontSize=28&fontColor=fff&animation=fadeIn&fontAlignY=30" width="100%"/>
 
 <br/>
 
@@ -402,7 +403,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=140&section=header&text=📚%20App%20Đọc%20Truyện&fontSize=28&fontColor=fff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=140&section=header&text=📚%20App%20Đọc%20Truyện&fontSize=28&fontColor=fff&animation=fadeIn&fontAlignY=30" width="100%"/>
 
 <br/>
 
@@ -435,7 +436,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fa709a,100:fee140&height=140&section=header&text=🍽%20Quản%20lý%20Nhà%20hàng&fontSize=28&fontColor=fff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fa709a,100:fee140&height=140&section=header&text=🍽%20Quản%20lý%20Nhà%20hàng&fontSize=28&fontColor=fff&animation=fadeIn&fontAlignY=30" width="100%"/>
 
 <br/>
 
